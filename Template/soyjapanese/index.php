@@ -307,7 +307,7 @@
         	<div class="image-wrap">
                 <div class="hover-wrap">
                     <span class="overlay-img"></span>
-                    <span class="overlay-text-thumb">Kenji Kawase</span>
+                    <span class="overlay-text-thumb">aaaaaa</span>
                 </div>
                 <img src="_include/img/profile/profile-01.jpg" alt="John Doe">
             </div>
