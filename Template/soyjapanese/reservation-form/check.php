@@ -21,18 +21,12 @@ $dbh->query('SET NAMES utf8');
    $content = $_SESSION['test_myself']['content'];
 
   if(!empty($_POST)){
-    //1.SQL文を用意
+   
   $sql = 'INSERT INTO `reservation`(`name`,`date`,`phone`,`time`,`guest`,`comments`) VALUES(?,?,?,?,?,?);';
-    //2.?に代入したい値を設定
   $data = [$name,$date,$number,$time,$people,$content];
-    //3.SQLをセットする
   $stmt = $dbh->prepare($sql);
-    //4.SQLを実行する
   $stmt->execute($data);
 
-  //登録完了ページへ遷移
-    //セッションに保持した内容は不要になったら破棄すること
-  unset($_SESSION['test_myself']);
   header('Location: thanks.php');
   exit();
   }
