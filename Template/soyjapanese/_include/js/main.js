@@ -1,7 +1,6 @@
 jQuery(function($){
 
-var  = window. || {};
-
+var BRUSHED = window.BRUSHED || {};
 /* ==================================================
    Mobile Navigation
 ================================================== */
