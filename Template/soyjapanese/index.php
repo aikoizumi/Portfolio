@@ -122,7 +122,7 @@
         	<ul id="menu-nav">
             	<li class="current"><a href="#home-slider">Home</a></li>
                 <li><a href="#work">Photography</a></li>
-                <li><a href="#about">Service</a></li>
+                <li><a href="#about">About us</a></li>
                 <li><a href="#contact">Location & Opening Hour</a></li>
 				<li><a href="reservation-form/index.php" class="external">Make Reservation</a></li>
             </ul>
@@ -204,7 +204,7 @@
                         	<!-- End Item Project -->
                             
 							<!-- Item Project and Filter Name -->
-                        	<li class="item-thumbs span3 starter">
+                        	<li class="item-thumbs span3 view">
                             	<!-- Fancybox Media - Gallery Enabled - Title - Link to Video -->
                             	<a class="hover-wrap fancybox-media" data-fancybox-group="gallery" title="Video Content From Vimeo" href="http://vimeo.com/51460511">
                                 	<span class="overlay-img"></span>
@@ -307,7 +307,7 @@
         	<div class="image-wrap">
                 <div class="hover-wrap">
                     <span class="overlay-img"></span>
-                    <span class="overlay-text-thumb">aaaaaa</span>
+                    <span class="overlay-text-thumb">Kenji kawase</span>
                 </div>
                 <img src="_include/img/profile/profile-01.jpg" alt="John Doe">
             </div>
@@ -329,7 +329,7 @@
                 </div>
                 <img src="_include/img/profile/profile-02.jpg" alt="Jane Helf">
             </div>
-            <h3 class="profile-name">Ryuta Aiba</h3>
+            <h3 class="profile-name">Head Chef</h3>
             <p class="profile-description">hoge</p>
             	
             <div class="social">
@@ -342,11 +342,11 @@
         	<div class="image-wrap">
                 <div class="hover-wrap">
                     <span class="overlay-img"></span>
-                    <span class="overlay-text-thumb">Lisa</span>
+                    <span class="overlay-text-thumb">Our crew</span>
                 </div>
                 <img src="_include/img/profile/profile-03.jpg" alt="Joshua Insanus">
             </div>
-            <h3 class="profile-name">Lisa</h3>
+            <h3 class="profile-name">Our crew</h3>
             <p class="profile-description">hoge</p>
             	
             <div class="social">

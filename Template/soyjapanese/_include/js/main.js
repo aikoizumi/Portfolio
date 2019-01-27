@@ -1,4 +1,4 @@
-jQuery(function($){
+FjQuery(function($){
 
 var BRUSHED = window.BRUSHED || {};
 /* ==================================================
