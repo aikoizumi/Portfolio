@@ -140,7 +140,7 @@
             <div class="span12">
                 <div class="title-page">
                     <h2 class="title">Photo graphy</h2>
-                    <h3 class="title-description">Check Out Our Menu on <a href="#">PDF</a>.</h3>
+                    <h3 class="title-description">Check Out Our Menu on <a href="menu.pdf">PDF</a>.</h3>
                 </div>
             </div>
         </div>
