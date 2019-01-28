@@ -202,17 +202,17 @@
                                 <img src="_include/img/work/thumbs/image-03.jpg" alt="">
                             </li>
                         	<!-- End Item Project -->
-                            
-							<!-- Item Project and Filter Name -->
-                        	<li class="item-thumbs span3 view">
-                            	<!-- Fancybox Media - Gallery Enabled - Title - Link to Video -->
-                            	<a class="hover-wrap fancybox-media" data-fancybox-group="View" title="Video Content From Vimeo" href="http://vimeo.com/51460511">
-                                	<span class="overlay-img"></span>
+                            <li class="item-thumbs span3 view">
+                                <!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="View" href="_include/img/work/full/image-03-full.jpg">
+                                    <span class="overlay-img"></span>
                                     <span class="overlay-img-thumb font-icon-plus"></span>
                                 </a>
                                 <!-- Thumb Image and Description -->
                                 <img src="_include/img/work/thumbs/image-04.jpg" alt="">
                             </li>
+							<!-- Item Project and Filter Name -->
+                        	
                         	<!-- End Item Project -->
                             
 							<!-- Item Project and Filter Name -->
@@ -223,55 +223,55 @@
                                     <span class="overlay-img-thumb font-icon-plus"></span>
                                 </a>
                                 <!-- Thumb Image and Description -->
-                                <img src="_include/img/work/thumbs/image-05.jpg" alt="">
+                                <img src="_include/img/work/thumbs/image-05.jpg" alt="Starter discription">
                             </li>
                         	<!-- End Item Project -->
                             
 							<!-- Item Project and Filter Name -->
                         	<li class="item-thumbs span3 starter">
-                            	<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-                            	<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Starter" href="_include/img/work/full/image-06-full.jpg">
-                                	<span class="overlay-img"></span>
+                                <!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Ebi gyoza" href="_include/img/work/full/image-05-full.jpg">
+                                    <span class="overlay-img"></span>
                                     <span class="overlay-img-thumb font-icon-plus"></span>
                                 </a>
                                 <!-- Thumb Image and Description -->
-                                <img src="_include/img/work/thumbs/image-06.jpg" alt="">
+                                <img src="_include/img/work/thumbs/image-06.jpg" alt="Ebi gyoza discription">
                             </li>
                         	<!-- End Item Project -->
                             
 							<!-- Item Project and Filter Name -->
-                        	<li class="item-thumbs span3 main">
-                            	<!-- Fancybox Media - Gallery Enabled - Title - Link to Video -->
-                            	<a class="hover-wrap fancybox-media" data-fancybox-group="gallery" title="Main" href="http://vimeo.com/50834315">
-                                	<span class="overlay-img"></span>
+                        	<li class="item-thumbs span3 starter">
+                                <!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Aburi roll" href="_include/img/work/full/image-05-full.jpg">
+                                    <span class="overlay-img"></span>
                                     <span class="overlay-img-thumb font-icon-plus"></span>
                                 </a>
                                 <!-- Thumb Image and Description -->
-                                <img src="_include/img/work/thumbs/image-07.jpg" alt="">
+                                <img src="_include/img/work/thumbs/image-07.jpg" alt="Aburi roll discription">
                             </li>
                         	<!-- End Item Project -->
                             
 							<!-- Item Project and Filter Name -->
-                        	<li class="item-thumbs span3 main">
-                            	<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-                            	<a class="hover-wrap fancybox" data-fancybox-group="video" title="Main" href="_include/img/work/full/image-08-full.jpg">
-                                	<span class="overlay-img"></span>
+                        	<li class="item-thumbs span3 starter">
+                                <!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Crunch ball" href="_include/img/work/full/image-05-full.jpg">
+                                    <span class="overlay-img"></span>
                                     <span class="overlay-img-thumb font-icon-plus"></span>
                                 </a>
                                 <!-- Thumb Image and Description -->
-                                <img src="_include/img/work/thumbs/image-08.jpg" alt="">
+                                <img src="_include/img/work/thumbs/image-08.jpg" alt="Crunch ball discription">
                             </li>
                         	<!-- End Item Project -->
                             
 							<!-- Item Project and Filter Name -->
-                        	<li class="item-thumbs span3 main">
-                            	<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-                            	<a class="hover-wrap fancybox" data-fancybox-group="video" title="Main" href="_include/img/work/full/image-09-full.jpg">
-                                	<span class="overlay-img"></span>
+                        	<li class="item-thumbs span3 starter">
+                                <!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Teriyaki chiken" href="_include/img/work/full/image-05-full.jpg">
+                                    <span class="overlay-img"></span>
                                     <span class="overlay-img-thumb font-icon-plus"></span>
                                 </a>
                                 <!-- Thumb Image and Description -->
-                                <img src="_include/img/work/thumbs/image-09.jpg" alt="">
+                                <img src="_include/img/work/thumbs/image-09.jpg" alt="Teriyaki chiken discription">
                             </li>
                         	<!-- End Item Project -->
                         </ul>
