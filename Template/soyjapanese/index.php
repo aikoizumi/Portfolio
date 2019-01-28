@@ -170,108 +170,108 @@
 							<!-- Item Project and Filter Name -->
                         	<li class="item-thumbs span3 view">
                             	<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-                            	<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="The City" href="_include/img/work/full/image-01-full.jpg">
+                            	<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="View" href="_include/img/work/full/image-01-full.jpg">
                                 	<span class="overlay-img"></span>
                                     <span class="overlay-img-thumb font-icon-plus"></span>
                                 </a>
                                 <!-- Thumb Image and Description -->
-                                <img src="_include/img/work/thumbs/image-01.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis.">
+                                <img src="_include/img/work/thumbs/image-01.jpg" alt="">
                             </li>
                         	<!-- End Item Project -->
                             
 							<!-- Item Project and Filter Name -->
                         	<li class="item-thumbs span3 view">
                             	<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-                            	<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="The Office" href="_include/img/work/full/image-02-full.jpg">
+                            	<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="View" href="_include/img/work/full/image-02-full.jpg">
                                 	<span class="overlay-img"></span>
                                     <span class="overlay-img-thumb font-icon-plus"></span>
                                 </a>
                                 <!-- Thumb Image and Description -->
-                                <img src="_include/img/work/thumbs/image-02.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis.">
+                                <img src="_include/img/work/thumbs/image-02.jpg" alt="">
                             </li>
                         	<!-- End Item Project -->
                             
 							<!-- Item Project and Filter Name -->
                         	<li class="item-thumbs span3 view">
                             	<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-                            	<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="The Mountains" href="_include/img/work/full/image-03-full.jpg">
+                            	<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="View" href="_include/img/work/full/image-03-full.jpg">
                                 	<span class="overlay-img"></span>
                                     <span class="overlay-img-thumb font-icon-plus"></span>
                                 </a>
                                 <!-- Thumb Image and Description -->
-                                <img src="_include/img/work/thumbs/image-03.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis.">
+                                <img src="_include/img/work/thumbs/image-03.jpg" alt="">
                             </li>
                         	<!-- End Item Project -->
                             
 							<!-- Item Project and Filter Name -->
                         	<li class="item-thumbs span3 view">
                             	<!-- Fancybox Media - Gallery Enabled - Title - Link to Video -->
-                            	<a class="hover-wrap fancybox-media" data-fancybox-group="gallery" title="Video Content From Vimeo" href="http://vimeo.com/51460511">
+                            	<a class="hover-wrap fancybox-media" data-fancybox-group="View" title="Video Content From Vimeo" href="http://vimeo.com/51460511">
                                 	<span class="overlay-img"></span>
                                     <span class="overlay-img-thumb font-icon-plus"></span>
                                 </a>
                                 <!-- Thumb Image and Description -->
-                                <img src="_include/img/work/thumbs/image-04.jpg" alt="Video">
+                                <img src="_include/img/work/thumbs/image-04.jpg" alt="">
                             </li>
                         	<!-- End Item Project -->
                             
 							<!-- Item Project and Filter Name -->
                         	<li class="item-thumbs span3 starter">
                             	<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-                            	<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="The Sea" href="_include/img/work/full/image-05-full.jpg">
+                            	<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Starter" href="_include/img/work/full/image-05-full.jpg">
                                 	<span class="overlay-img"></span>
                                     <span class="overlay-img-thumb font-icon-plus"></span>
                                 </a>
                                 <!-- Thumb Image and Description -->
-                                <img src="_include/img/work/thumbs/image-05.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis.">
+                                <img src="_include/img/work/thumbs/image-05.jpg" alt="">
                             </li>
                         	<!-- End Item Project -->
                             
 							<!-- Item Project and Filter Name -->
                         	<li class="item-thumbs span3 starter">
                             	<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-                            	<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Clouds" href="_include/img/work/full/image-06-full.jpg">
+                            	<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Starter" href="_include/img/work/full/image-06-full.jpg">
                                 	<span class="overlay-img"></span>
                                     <span class="overlay-img-thumb font-icon-plus"></span>
                                 </a>
                                 <!-- Thumb Image and Description -->
-                                <img src="_include/img/work/thumbs/image-06.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis.">
+                                <img src="_include/img/work/thumbs/image-06.jpg" alt="">
                             </li>
                         	<!-- End Item Project -->
                             
 							<!-- Item Project and Filter Name -->
                         	<li class="item-thumbs span3 main">
                             	<!-- Fancybox Media - Gallery Enabled - Title - Link to Video -->
-                            	<a class="hover-wrap fancybox-media" data-fancybox-group="gallery" title="Video Content From Vimeo" href="http://vimeo.com/50834315">
+                            	<a class="hover-wrap fancybox-media" data-fancybox-group="gallery" title="Main" href="http://vimeo.com/50834315">
                                 	<span class="overlay-img"></span>
                                     <span class="overlay-img-thumb font-icon-plus"></span>
                                 </a>
                                 <!-- Thumb Image and Description -->
-                                <img src="_include/img/work/thumbs/image-07.jpg" alt="Video">
+                                <img src="_include/img/work/thumbs/image-07.jpg" alt="">
                             </li>
                         	<!-- End Item Project -->
                             
 							<!-- Item Project and Filter Name -->
                         	<li class="item-thumbs span3 main">
                             	<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-                            	<a class="hover-wrap fancybox" data-fancybox-group="video" title="The Dark" href="_include/img/work/full/image-08-full.jpg">
+                            	<a class="hover-wrap fancybox" data-fancybox-group="video" title="Main" href="_include/img/work/full/image-08-full.jpg">
                                 	<span class="overlay-img"></span>
                                     <span class="overlay-img-thumb font-icon-plus"></span>
                                 </a>
                                 <!-- Thumb Image and Description -->
-                                <img src="_include/img/work/thumbs/image-08.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis.">
+                                <img src="_include/img/work/thumbs/image-08.jpg" alt="">
                             </li>
                         	<!-- End Item Project -->
                             
 							<!-- Item Project and Filter Name -->
                         	<li class="item-thumbs span3 main">
                             	<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-                            	<a class="hover-wrap fancybox" data-fancybox-group="video" title="The Beach" href="_include/img/work/full/image-09-full.jpg">
+                            	<a class="hover-wrap fancybox" data-fancybox-group="video" title="Main" href="_include/img/work/full/image-09-full.jpg">
                                 	<span class="overlay-img"></span>
                                     <span class="overlay-img-thumb font-icon-plus"></span>
                                 </a>
                                 <!-- Thumb Image and Description -->
-                                <img src="_include/img/work/thumbs/image-09.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis.">
+                                <img src="_include/img/work/thumbs/image-09.jpg" alt="">
                             </li>
                         	<!-- End Item Project -->
                         </ul>
@@ -311,8 +311,9 @@
                 </div>
                 <img src="_include/img/profile/profile-01.jpg" alt="John Doe">
             </div>
-            <h3 class="profile-name"> Kenji Kawase</h3>
-            <p class="profile-description">hoge</p>
+            <h3 class="profile-name">Executive Chef</h3>
+            <p class="profile-description">Kenji Kawase, Executive Chef at Soy Japanese restaurant, was born & raised in Japan at Tokyo. And immegreated to Australia, where he was amazed and exposed to a fusion of unique Japanese culture, and traditional Australian influences, to create flavourful masterpieces. 
+</p>
             	
             <div class="social">
             	
@@ -330,7 +331,7 @@
                 <img src="_include/img/profile/profile-02.jpg" alt="Jane Helf">
             </div>
             <h3 class="profile-name">Head Chef</h3>
-            <p class="profile-description">hoge</p>
+            <p class="profile-description">Talented innovative chef with 8 years of experience in the food service industry in expanding scope to high-volume kitchen.Expertise in planning menus ,standardizing recipes, preparing multi-cultural dishes, and managing purchasing. Exceptional leader skilled at training and supervising.</p>
             	
             <div class="social">
             </div>
@@ -342,13 +343,12 @@
         	<div class="image-wrap">
                 <div class="hover-wrap">
                     <span class="overlay-img"></span>
-                    <span class="overlay-text-thumb">Our crew</span>
+                    <span class="overlay-text-thumb">Team member</span>
                 </div>
                 <img src="_include/img/profile/profile-03.jpg" alt="Joshua Insanus">
             </div>
-            <h3 class="profile-name">Our crew</h3>
-            <p class="profile-description">hoge</p>
-            	
+            <h3 class="profile-name">Team member</h3>
+            <p class="profile-description">We couldn’t do what we do without our people. From our exellent chefs to the wonderful wait staffs, our Soy family is big and diverse - and the one thing we have in common is that we love what we do, and it shows. We’re always on the lookout for the right people to join our team and help us grow, so if you’re passionate and proud of what you do we’d love to hear from you. </p>
             <div class="social">
             </div>
         </div>
